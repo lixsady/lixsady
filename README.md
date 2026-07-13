@@ -1,16 +1,28 @@
-## Hi there 👋
+# Lixsady
 
-<!--
-**lixsady/lixsady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Infrastructure & Development**
+Geneva, Switzerland · Miami, FL
+🌐 [lixsady.ch](https://lixsady.ch) · 📺 [@lixsady](https://youtube.com/@lixsady)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lixsady is an infrastructure and development company building web platforms, geodata tooling, and backend systems. Our studio label, **Lixvera**, is where more experimental and design-forward projects take shape.
+
+### 🏢 Lixsady
+
+- **[lixsady.ch](https://lixsady.ch)** — corporate site, multilingual (EN/FR/DE/JA), with a full accessibility panel and contact system
+- **Lixsady Geodata** — a live map dashboard aggregating news, weather, flight, crime, and marine data layers, built on Leaflet.js with a PHP proxy backend
+- Infrastructure work spanning VPS management, secure remote access (WireGuard, SSH), and containerized services
+
+### 🎨 Lixvera — *A Lixsady Studio*
+
+- **GPX Viewer/Editor** — a web app for viewing, editing, and creating GPX route files
+- Brand and visual design work — logos, identity systems, and product design for Lixsady-affiliated tools
+
+### 🛠️ Stack
+
+`PHP` · `MySQL` · `JavaScript` · `Leaflet.js` · `Docker` · `WireGuard`
+
+---
+
+*Lixsady — building infrastructure, one project at a time.*
